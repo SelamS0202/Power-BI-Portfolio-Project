@@ -44,4 +44,6 @@ This project uses the **Sample Sales Data** available on **Kaggle**, originally 
 ├── SQL/ # SQL view for Power BI
 ├── Screenshots/ # Dashboard images
 ├── README.md # Project overview
+|── Logical_Data_Model.png # Star Schema Model
+
 
